@@ -2,7 +2,6 @@
 
 最近，我们看到很多视频在 Twitter 上流传。无论是可爱的狗狗视频，还是关于一些有争议的话题的严肃辩论，你也喜欢一遍又一遍地观看，直到你厌倦了那个视频。但是，该应用程序不允许您从其平台下载视频。这主要是因为平台的版权规则。但是，如果有一种方法可以轻松下载这些视频呢？在本文中，我们将向您展示从 Twitter 下载视频的简单方法。因此，不要浪费您的时间，让我们开始了解如何在您的手机或计算机上下载 Twitter 视频。
 
-另请阅读： [Facebook 视频下载：如何在 Android、iPhone 和笔记本电脑上从 Facebook 保存视频](https://www.mysmartprice.com/gear/facebook-videos-download-how-to/)
 
 ## 如何在 PC 或台式机上下载 Twitter 视频
 
@@ -14,7 +13,7 @@
 
 1. 打开 Twitter 并搜索您要下载的视频
 2. 现在，复制包含您要下载的视频的推文的直接链接。
-3. 转到[Save Tweet Vid](https://bit.ly/3un6kUp)或[Twitter Video Downloader](https://bit.ly/3yIzl03)网站。将链接粘贴到那里，然后单击下载。
+3. 转到[Save Tweet Vid]或[Twitter Video Downloader]网站。将链接粘贴到那里，然后单击下载。
 
 两个网站都提供不同的下载质量。您可以根据需要选择视频质量，然后单击文件大小旁边的“下载”按钮。
 
